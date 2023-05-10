@@ -1,8 +1,7 @@
 
 <html>
-<head>
-	<title>MOODBOOST README</title>
-</head>
+
+
 <body>
 	<h1>MOODBOOST</h1>
 	<p>MOODBOOST is a web application that allows users to boost their mood by selecting different moods and playing corresponding audio tracks. The app includes five mood options: Relax, Romantic, Sad, Happy, and Hopeful, and is built using HTML, CSS, and JavaScript.</p>
