@@ -3,7 +3,13 @@
 
 
 <body>
-	<h1>MOODBOOST</h1>
+	<h1 align='center'>MOODBOOST by Ragesh</h1>
+	
+<h2>
+  <a href="https://ezhillragesh.github.io/moodboost/">Take me to the Site</a>
+</h2>
+<h2>Preview</h2>
+<img src="https://github.com/ezhillragesh/moodboost/assets/84183052/f25d37b2-40f9-47c7-a629-d8f6f5dbd1be" alt="preview of Ragesh's MOODBOOST website"> 
 	<p>MOODBOOST is a web application that allows users to boost their mood by selecting different moods and playing corresponding audio tracks. The app includes five mood options: Relax, Romantic, Sad, Happy, and Hopeful, and is built using HTML, CSS, and JavaScript.</p>
 	<h2>Features</h2>
 	<ul>
@@ -23,7 +29,6 @@ open index.html</code></pre>
 	<p>MOODBOOST was created by Ragesh.</p>
 	<h2>License</h2>
 	<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-  <h2>Preview<h2>
-    <img src="assests/preview.png" alt="preview of Ragesh's MOODBOOST website" width="500" height="600"> 
+ 
 </body>
 </html>
