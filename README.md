@@ -24,6 +24,6 @@ open index.html</code></pre>
 	<h2>License</h2>
 	<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
   <h2>Preview<h2>
-    <img >
+    <img src=assests/preview.png alt="Girl in a jacket" width="500" height="600"> 
 </body>
 </html>
